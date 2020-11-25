@@ -36,6 +36,11 @@ One working unit is composed by 4 multidispensing robots divided in 3 different 
 - **Station C**: The qPCR plate is prepared by adding the required volume of elution from the elution plate coming from station B and the required volume of Mastermix.
 
 --------------
+3D4Emergency is an association which aims to connect 3D printing research with Covid-19 fighting initiatives. Thanks to their support and work plenty of biomedical research centres and hospitales around Spain have benefited from their efforts. Regarding the Opentrons based RNA extraction units, 3D4 emergency have developed a sort of tube sample supports which can be used with a wide variety of tube sizes and diameters.
+You can find more information in their website and blog:
+- Website: [https://www.3d4emergency.org/copia-de-conectores-epis] (https://www.3d4emergency.org/copia-de-conectores-epis)
+- Blog: [https://www.3d4emergency.org/copia-de-conectores-epis] (https://www.3d4emergency.org/copia-de-conectores-epis)
+––––––––––––––
 A truly sincere recognition for their time, support and contribution to:
 
 - Jose Luis Villanueva
